@@ -1,4 +1,4 @@
-VCF annotation with ExAC API. 
+# VCF annotation with ExAC API. 
 
 A VCF annotation tool (prototype) using [vcftools](https://vcftools.github.io/index.html), [ExAC REST API](http://exac.hms.harvard.edu/), and [gencode](https://www.gencodegenes.org/releases/19.html). 
 The output file is a tab-separated text file with the information following: 

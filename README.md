@@ -47,4 +47,4 @@ The output file is a tab-separated text file with the information following:
 	* Some versions of vcftools will give Warnings for commas in header lines, while some versions accept them. A small tool here is to generate a new VCF header file to remove those comma.
 	* Running lib/vcf_header_clean.py on the original data will generate the new VCF header file lib/newheader.tmp.txt, and I have used bcftools to reheader the original file ../data/Challenge_data\ \(1\).vcf to make the Warning-free input: data/Challenge_data_clean.vcf.
 
- 
+This is an edit 
